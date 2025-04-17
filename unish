@@ -1,0 +1,2 @@
+#!/bin/bash
+exec -a unish /usr/local/bin/node /Volumes/Projects/unicornshell/index.js $@

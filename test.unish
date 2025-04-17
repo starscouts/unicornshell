@@ -1,0 +1,5 @@
+#!/usr/bin/env unish
+echo Hello, I am a script!
+save version { version }
+echo "The 'version' command says: $version"
+echo Bye!

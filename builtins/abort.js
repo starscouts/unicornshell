@@ -1,0 +1,1 @@
+module.exports = (_1, _2) => {}
